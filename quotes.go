@@ -1,7 +1,7 @@
 package quotes
 
 // favs return a slice of specific strings
-func favs() []string {
+func Favs() []string {
 	a := "first entry"
 	b := "second entry"
 	c:= []string {a,b}
