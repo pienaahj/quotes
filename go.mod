@@ -1,3 +1,3 @@
-module gitbub.com/pienaahj/quotes
+module github.com/pienaahj/quotes
 
 go 1.17
